@@ -1,4 +1,4 @@
-# ds_rust
+# Data Structure in Rust
 
 In this repository, I gonna learn data structure from zero in Rust language.
 
